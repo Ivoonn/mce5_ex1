@@ -112,6 +112,7 @@ Para responder esta pregunta debe generar las hipótesis y probar las hipótesis
 ```{r}
 head(mites)
 ```
+Tenemos datos sobre correlación de agua, proporción, abundancia, etc. con lo cúal podremos ver la presencia de ácaros en musgos
 
 - Realizar regresiones lineales de cada variable de respuesta y variables efectoras, univariable o multivariable. Verifique los supuestos de la regresión. 
 
