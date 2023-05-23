@@ -72,6 +72,8 @@ Explique el resultado muestra:
 
 **Respuesta:**
 
+Hola uy otro hola
+
 
 ## Gráfica e hipótesis
 En una hoja de papel dibuje un gráfico hipotetico basado en la figura 4 del artículo mostrando [Coloque adecuadamente las leyendas]. Describa su figura justifique su razonamiento.
