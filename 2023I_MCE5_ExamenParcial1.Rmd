@@ -52,6 +52,11 @@ En el estudio realizado por <a href="https://doi.org/10.1111/jvs.13185">Sanches 
 
 **Respuesta:**
 
+Hipotesis 0(nula): La "facilitación" no tiene ningun efecto en el equilibrio de especies cuando crecen en grupo o parches.
+
+Hipotesis 1(alterna): La "facilitación" ayuda a equelibrar el crecimiento de todas las especies cuando crecen en grupo o en parches.
+
+En el artículo menciona que existen plantas en etapas maduras y otras en etapas  jovenes que muchas veces el crecimiento de plantas maduras no permite el crecimiento de plantas jovenes. la facilitación es la encargada de controlar el crecimiento excesivo y proteger a las especies que son diferentes o unicas. Ademas de ser causante de ser la adaptación de suelos.
 
 ## Muestra
 
