@@ -77,8 +77,11 @@ Explique el resultado muestra:
 
 **Respuesta:**
 
-Hola uy otro hola
+Variable dependiente: Ecosistema, Facilitador 
 
+Variable independiente: Plantas, Clima, Calidad del suelo
+
+El ecosistema de las plantas y el facilitador son variables dependientes porque estos son parte de la naturaleza y siguen un proceso natural. En cambio las plantas tienen temporadas que abundan más y otras que no germian sea por condición de clima u condición de suelo.
 
 ## Gráfica e hipótesis
 En una hoja de papel dibuje un gráfico hipotetico basado en la figura 4 del artículo mostrando [Coloque adecuadamente las leyendas]. Describa su figura justifique su razonamiento.
