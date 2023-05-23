@@ -63,13 +63,14 @@ En el artículo menciona que existen plantas en etapas maduras y otras en etapas
 Replique el diseño realizado en el artículo en localidades del Ecuador y genere el archivo **rarespecies.csv**. 
 
 ```{r crd_anfibios}
-sitios = c("Sitio1", "Chuquitos", "Chompi")
+sitios = c("Tena", "Archidona", "Puerto Napo", "Shandia")
 
 ```
 Explique el resultado muestra: 
 
 **Respuesta:**
 
+Los lugares escogidos deben tener una ubicación en el Ecuador y no sobre pasar el límite de 20km. Para escoger los sitios tome de punto central a Tena para así avanzar por a los demás lugares ya indicados.
 
 
 ## Variables
