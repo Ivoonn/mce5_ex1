@@ -88,7 +88,7 @@ El ecosistema de las plantas y el facilitador son variables dependientes porque 
 En una hoja de papel dibuje un gráfico hipotetico basado en la figura 4 del artículo mostrando [Coloque adecuadamente las leyendas]. Describa su figura justifique su razonamiento.
 
 **Respuesta (adjunte una foto de la imagen o genere una gráfica con código)**
-<center>![](hola.png)</center>
+<center>![](Foto VH.jpg)</center>
 
 
 
